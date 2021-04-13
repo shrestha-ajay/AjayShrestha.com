@@ -1,0 +1,14 @@
+Take a minute to run through this scenario in your head. You have been hired by a hot startup, and your first assignment is to analyze reactions of people on Twitter to particular events. Your boss booked a meeting with the lead data engineer, cloud architect, and dev ops lead but he can't make it and asks you to make sure you get everything worked out with them to have you project going ASAP. You have 30 minutes to write down what kind of questions you want answered from those key people to make sure you fully understand the data landscape of the company, and how to proceed to start collecting the data so that you can analyze and score a win.
+
+
+Who would you want to talk to? What information would you need? What questions would you ask?
+
+
+Here are a few hints to get you started:
+1. How do I deploy a scheduled program to pull data from an API in the company's data ecosystem?
+2. Who is responsible to make sure it is running properly and not erroring out?
+3. Where can I store the data I pull from this API?
+
+
+Feedback:
+1. 
