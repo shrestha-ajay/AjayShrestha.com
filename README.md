@@ -14,6 +14,7 @@ Welcome to my site. Here is my brief introduction.
 - [LinkedIn](https://www.linkedin.com/in/ajayshrestha/)
 - [Google Scholar](https://scholar.google.com/citations?user=wtBCz0QAAAAJ)
 - [Credly Certifications](https://www.youracclaim.com/users/ajayshrestha/badges)
+- [Github](https://github.com/shrestha-ajay)
 - [Twitter](https://twitter.com/ajayshrestha)
 
 ## Interests:
