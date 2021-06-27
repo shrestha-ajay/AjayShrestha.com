@@ -14,7 +14,7 @@ Welcome to my site. Here is my brief introduction.
 - [LinkedIn](https://www.linkedin.com/in/ajayshrestha/)
 - [Google Scholar](https://scholar.google.com/citations?user=wtBCz0QAAAAJ)
 - [Credly Certifications](https://www.youracclaim.com/users/ajayshrestha/badges)
-- [Twitter] (https://twitter.com/ajayshrestha)
+- [Twitter](https://twitter.com/ajayshrestha)
 
 ## Interests:
 - Technology: AI, Blockchain
