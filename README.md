@@ -23,7 +23,7 @@ Welcome to my site. Here is my brief introduction.
 - Hard problem of Consciousness
 
 
-## Recent books:
+## Recent read books:
 
 - [Sapiens: A Brief History of Humankind] - Yuval Noah Harari
 - [The Nature of Consciousness: Essays on the Unity of Mind and Matter] - Rupert Spira
