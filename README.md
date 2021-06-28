@@ -4,21 +4,21 @@
 
 Welcome to my site. Here is my brief background. I grew up in [Nepal](https://en.wikipedia.org/wiki/Nepal) and came to the US to pursue bachelor's degree. I received PhD in machine learning in 2019 from the University of Bridgeport. I am passionate about using technology to solve problems in healthcare and life sciences to improve human wellbeing.
 
-## Education & Experience: 
+## Education & Experience
 - 15 Years engineering and management experience in DevOps and Site Reliability Engineering
   - [iMedX](https://imedx.com/), [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html), [Imagen Technologies](https://imagen.ai/) (present)
 - BS/MS/PhD, Computer Science & Engineering, [University of Bridgeport](https://www.bridgeport.edu/), Connecticut, USA
 
 
 
-## Interests:
+## Interests
 - Technology: AI, Blockchain and Quantum Computing
 - Industry: Healthcare, Life Sciences & Sustainability
 - Philosophy: Hard problem of Consciousness
 - Wellbeing: Mindfullness
 
 
-## Web Profiles:
+## Web Profiles
 
 - [LinkedIn](https://www.linkedin.com/in/ajayshrestha/)
 - [Google Scholar](https://scholar.google.com/citations?user=wtBCz0QAAAAJ)
@@ -42,7 +42,7 @@ Welcome to my site. Here is my brief background. I grew up in [Nepal](https://en
 -	Scientific Computing World – Interviewed by the editor of the magazine on latest trends in SaaS (Cloud and AI) – interview article – Feb 2020, [link](https://www.scientific-computing.com/feature/making-case-cloud)
 -	Entrepreneurship Specialization (5 courses) – Coursera (Wharton Online) [certification link](https://www.coursera.org/account/accomplishments/specialization/certificate/ZL4WT3NHK2AT) - August 2020
 
-## Recently read books:
+## Recently read books
 
 - Sapiens: A Brief History of Humankind - Yuval Noah Harari
 - The Nature of Consciousness: Essays on the Unity of Mind and Matter - Rupert Spira
