@@ -2,7 +2,7 @@
 
 [comment]: <> (this is a test)
 
-Welcome to my site. Here is my brief background. I grew up in [Nepal](https://en.wikipedia.org/wiki/Nepal) and came to the US to pursue bachelor's degree. I received PhD (machine learning) in 2019 from the [University of Bridgeport](https://www.bridgeport.edu/academics/schools-colleges/school-engineering/computer-science-engineering-phd) and currently work for Imagen Technologies. I am passionate about using technology to solve problems in healthcare and life science to improve human wellbeing.
+Welcome to my site. Here is my brief background. I grew up in [Nepal](https://en.wikipedia.org/wiki/Nepal) and came to the US to pursue bachelor's degree. I received PhD in machine learning in 2019 from the [University of Bridgeport](https://www.bridgeport.edu/academics/schools-colleges/school-engineering/computer-science-engineering-phd). I am passionate about using technology to solve problems in healthcare and life science to improve human wellbeing.
 
 ## Education & Experience: 
 - BS/MS/PhD, Computer Science & Engineering, University of Bridgeport, Connecticut, USA
