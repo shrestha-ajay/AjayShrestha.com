@@ -2,18 +2,18 @@
 
 [comment]: <> (this is a test)
 
-Welcome to my site. Here is my brief background. I grew up in [Nepal](https://en.wikipedia.org/wiki/Nepal) and came to the US to pursue bachelor's degree. I received PhD in machine learning in 2019 from the University of Bridgeport. I am passionate about using technology to solve problems in healthcare and life sciences to improve human wellbeing.
+Welcome to my site. Here is my brief background. I grew up in [Nepal](https://en.wikipedia.org/wiki/Nepal) and came to the US to pursue bachelor's degree in computer engineering. I received PhD in machine learning in 2019 from the University of Bridgeport, Connecticut. I am passionate about contineous learning and applying knowledge/experience to solve problems for business and society.
 
 ## Education & Experience
-- 15 Years engineering and management experience in DevOps and Site Reliability Engineering
-  - [iMedX](https://imedx.com/), [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html), [Imagen Technologies](https://imagen.ai/) (present)
+- 15 Years engineering and management experience in DevOps and Site Reliability Engineering: [iMedX](https://imedx.com/), [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html), [Imagen Technologies](https://imagen.ai/) (present)
 - BS/MS/PhD, Computer Science & Engineering, [University of Bridgeport](https://www.bridgeport.edu/), Connecticut, USA
+- Industry Certifications in project management (PMP), cloud development, devops, machine learning and others 
 
 
 
 ## Interests
 - Technology: AI, Blockchain and Quantum Computing
-- Industry: Healthcare, Life Sciences & Sustainability
+- Industry: Healthcare, Life Sciences, Sustainability
 - Philosophy: Hard problem of Consciousness
 - Wellbeing: Mindfullness
 
@@ -33,7 +33,7 @@ Welcome to my site. Here is my brief background. I grew up in [Nepal](https://en
 -	Journal: Review of Deep Learning Algorithms and Architectures, in IEEE Access, 2019, [link](https://ieeexplore.ieee.org/document/8694781)
 -	Conference: Enhancing Siamese Networks Training with Importance Sampling, 11th International Conference on Agents and Artificial Intelligence ICAART, Prague, Czech Republic, 2019, [link](http://dx.doi.org/10.5220/0007371706100615)
 -	Journal: Improving Genetic Algorithm with Fine-Tuned Crossover and Scaled Architecture, Journal of Mathematics, 2016, [link](http://dx.doi.org/10.1155/2016/4015845)
--	Thermo Fisher Scientific blog post titled, “Machine Learning: A Primer to Laboratory Applications”, Jan 2020,  [link](https://www.thermofisher.com/blog/connectedlab/machine-learning-a-primer-to-laboratory-applications/)
+-	Thermo Fisher Scientific Blog Post, “Machine Learning: A Primer to Laboratory Applications”, Jan 2020,  [link](https://www.thermofisher.com/blog/connectedlab/machine-learning-a-primer-to-laboratory-applications/)
 
 ## Awards & Activities
 -	Vice President, Upsilon Pi Epsilon Honor Society (Connecticut Delta Chapter), 2014 – 2019
