@@ -2,10 +2,10 @@
 
 [comment]: <> (this is a test)
 
-Welcome to my site. Here is my brief background. I grew up in [Nepal](https://en.wikipedia.org/wiki/Nepal) and came to the US to pursue bachelor's degree in computer engineering. I received PhD in machine learning in 2019 from the University of Bridgeport, Connecticut. I am passionate about contineous learning and applying knowledge/experience to solve problems for business and society.
+Welcome to my site. Here is my brief background. I grew up in [Nepal](https://en.wikipedia.org/wiki/Nepal) and came to the US to pursue bachelor's degree in computer engineering. I received PhD in machine learning in 2019 from the University of Bridgeport. I am passionate about contineous learning and applying knowledge/experience to solve problems for business and society.
 
 ## Education & Experience
-- 15 Years engineering and management experience in DevOps and Site Reliability Engineering: [iMedX](https://imedx.com/), [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html), [Imagen Technologies](https://imagen.ai/) (present)
+- 15 years of engineering and management experience in DevOps and Site Reliability Engineering: [iMedX](https://imedx.com/), [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html), [Imagen Technologies](https://imagen.ai/) (present)
 - BS/MS/PhD, Computer Science & Engineering, [University of Bridgeport](https://www.bridgeport.edu/), Connecticut, USA
 - Industry Certifications in project management (PMP), cloud development, devops, machine learning and others 
 
@@ -35,7 +35,7 @@ Welcome to my site. Here is my brief background. I grew up in [Nepal](https://en
 -	Journal: Improving Genetic Algorithm with Fine-Tuned Crossover and Scaled Architecture, Journal of Mathematics, 2016, [link](http://dx.doi.org/10.1155/2016/4015845)
 -	Thermo Fisher Scientific Blog Post, “Machine Learning: A Primer to Laboratory Applications”, Jan 2020,  [link](https://www.thermofisher.com/blog/connectedlab/machine-learning-a-primer-to-laboratory-applications/)
 
-## Awards & Activities
+## Activities
 -	Vice President, Upsilon Pi Epsilon Honor Society (Connecticut Delta Chapter), 2014 – 2019
 -	Technical Committee Member, International Conference on Systems, Computing Sciences and Software Engineering (SCSS 2012, 2013, 2014)
 -	Upsilon Pi Epsilon Executive Council Award, 2016. Award News-brief, [link](https://www.cs.ucla.edu/wp-content/uploads/cs/UPE-News-August-2016-Scholarships.pdf)
