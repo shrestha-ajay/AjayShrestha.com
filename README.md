@@ -28,7 +28,7 @@ Welcome to my site. Here is my brief background. I grew up in [Nepal](https://en
 
 
 ## Select Publications on Machine Learning
--	Dissertation: Enhanced Deep Network Designs Using Mitochondrial DNA Based Genetic Algorithm and Importance Sampling, 2019, [link](https://www.proquest.com/dissertations-theses/enhanced-deep-network-designs-using-mitochondrial/docview/2322784986/se-2?accountid=201395)
+-	Dissertation: Enhanced Deep Network Designs Using Mitochondrial DNA Based Genetic Algorithm and Importance Sampling, 2019, [link](https://www.proquest.com/docview/2322784986/631422EFED204CFDPQ/)
 -	Conference: Optimizing Deep Neural Network Architecture with Enhanced Genetic Algorithm, 18th IEEE International Conference on Machine Learning and Applications, ICMLA, 2019, Florida, [link](https://ieeexplore.ieee.org/abstract/document/8999193)
 -	Journal: Review of Deep Learning Algorithms and Architectures, in IEEE Access, 2019, [link](https://ieeexplore.ieee.org/document/8694781)
 -	Conference: Enhancing Siamese Networks Training with Importance Sampling, 11th International Conference on Agents and Artificial Intelligence ICAART, Prague, Czech Republic, 2019, [link](http://dx.doi.org/10.5220/0007371706100615)
