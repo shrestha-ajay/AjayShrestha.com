@@ -5,3 +5,5 @@ plugings:
 - jekyll-remote-theme
 
 google_analytics: G-P65G8180MH
+
+theme: jekyll-theme-minimal
