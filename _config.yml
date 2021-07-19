@@ -1,9 +1,2 @@
-#theme: jekyll-theme-time-machine
-remote_theme: jekyll/minima
-
-plugings:
-- jekyll-remote-theme
-
+theme: jekyll-theme-time-machine
 google_analytics: G-P65G8180MH
-
-theme: jekyll-theme-minimal
