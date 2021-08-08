@@ -37,7 +37,7 @@ Welcome to my site. Here is my brief introduction. I grew up in [Nepal](https://
 -	Thermo Fisher Scientific Blog Post, “Machine Learning: A Primer to Laboratory Applications”, Jan 2020,  [link](https://www.thermofisher.com/blog/connectedlab/machine-learning-a-primer-to-laboratory-applications/)
 
 ## Activities
--	Vice President, [Upsilon Pi Epsilon Honor Society](https://upe.acm.org/) (Connecticut Delta Chapter), 2014 – 2019
+-	Vice President, [Upsilon Pi Epsilon](https://upe.acm.org/) Honor Society (Connecticut Delta Chapter), 2014 – 2019
 -	Technical Committee Member, International Conference on Systems, Computing Sciences and Software Engineering (SCSS 2012, 2013, 2014)
 -	Upsilon Pi Epsilon Executive Council Award, 2016. Award News-brief, [link](https://www.cs.ucla.edu/wp-content/uploads/cs/UPE-News-August-2016-Scholarships.pdf)
 -	Interviewed by the editor of Scientific Computing World magazine on latest trends in SaaS (Cloud and AI) – interview article – Feb 2020, [link](https://www.scientific-computing.com/feature/making-case-cloud)
