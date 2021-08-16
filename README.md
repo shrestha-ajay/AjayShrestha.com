@@ -8,7 +8,7 @@ Welcome to my site. Here is my brief introduction. I grew up in [Nepal](https://
 - 15 years of engineering and management experience in DevOps and Systems Engineering at US companies ranging from startups (internet, healthcare, AI) to fortune 100 corporation including [iMedX](https://imedx.com/), [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html) and [Imagen Technologies](https://imagen.ai/) (present)
 - BS/MS/PhD, Computer Science & Engineering, [University of Bridgeport](https://www.bridgeport.edu/), Connecticut, USA
 - Industry Certifications in project management (PMP), cloud development, devops, machine learning and others, [link](https://www.youracclaim.com/users/ajayshrestha/badges) 
-- Adjunct Faculty (4 years): Taught courses in Cloud Computing and Embedded Systems Designs (micro-controllers) to engineering students at the University of Bridgeport
+- 4 years  of teaching (2016 - present) as Adjunct Faculty: Teach courses in Cloud Computing and Embedded Systems Designs (micro-controllers) to engineering students at the University of Bridgeport
 
 
 
