@@ -2,7 +2,7 @@
 
 [comment]: <> (this is a test)
 
-Welcome to my site. My name is Ajay Shrestha. I live in Connecticut, USA. I work for [Imagen Technologies](https://imagen.ai/) as an engineer and teach at the [University of Bridgeport](https://www.bridgeport.edu/) as an adjunct faculty. I received PhD in machine learning in 2019. I am passionate about contineous learning and applying knowledge/experience to solve problems and have a positive impact on the world.
+Welcome to my site. My name is Ajay Shrestha. I live in Connecticut, USA. I work for Imagen Technologies as an engineer and teach at the University of Bridgeport as an adjunct faculty. I received PhD in machine learning in 2019. I am passionate about contineous learning and applying knowledge/experience to solve problems and have a positive impact on the world.
 
 ## Education & Experience
 - 15 years of engineering and management experience in DevOps and Systems Engineering at US companies ranging from startups (internet, healthcare, AI) to fortune 100 corporation including [iMedX](https://imedx.com/), [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html) and [Imagen Technologies](https://imagen.ai/) (present)
