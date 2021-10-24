@@ -2,7 +2,7 @@
 
 [comment]: <> (this is a test)
 
-Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (NYC) as an engineer and teach at the University of Bridgeport (CT) as an adjunct faculty. I received PhD in machine learning in 2019. I am passionate about contineous learning and applying knowledge/experience to solve problems and have a positive impact on the world.
+Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (Healthcare AI startup in NYC) as an engineer and teach at the University of Bridgeport (CT) as an adjunct faculty. I received PhD in machine learning in 2019. I am passionate about contineous learning and applying knowledge/experience to solve problems and have a positive impact on the world.
 
 ## Education & Experience
 - 15 years of engineering and management experience in DevOps and Systems Engineering at US companies ranging from startups (internet, healthcare, AI) to fortune 100 corporation including [iMedX](https://imedx.com/), [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html) and [Imagen Technologies](https://imagen.ai/) (present)
@@ -20,13 +20,11 @@ Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (NY
 
 
 ## Web Profiles
-
 - [LinkedIn](https://www.linkedin.com/in/ajayshrestha/)
 - [Google Scholar](https://scholar.google.com/citations?user=wtBCz0QAAAAJ)
 - [Credly Certifications](https://www.youracclaim.com/users/ajayshrestha/badges)
 - [Github](https://github.com/shrestha-ajay)
 - [Twitter](https://twitter.com/ajayshrestha)
-
 
 ## Select 1st Author Publications on Machine Learning
 -	Dissertation: Enhanced Deep Network Designs Using Mitochondrial DNA Based Genetic Algorithm and Importance Sampling, 2019, [link](https://www.proquest.com/docview/2322784986/631422EFED204CFDPQ/)
@@ -44,8 +42,8 @@ Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (NY
 -	Entrepreneurship Specialization (5 courses) – Coursera (Wharton Online) [certification link](https://www.coursera.org/account/accomplishments/specialization/certificate/ZL4WT3NHK2AT) - August 2020
 
 ## Recently read books
-
 - Sapiens: A Brief History of Humankind - Yuval Noah Harari
+- A Breif History of Everything - Ken Wilber
 - The Nature of Consciousness: Essays on the Unity of Mind and Matter - Rupert Spira
 - High Output Management - Andrew S. Grove
 
