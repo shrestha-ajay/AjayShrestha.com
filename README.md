@@ -47,6 +47,6 @@ Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (He
 - The Nature of Consciousness: Essays on the Unity of Mind and Matter - Rupert Spira
 - High Output Management - Andrew S. Grove
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+## LinkedIn Badge
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ajayshrestha" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ajayshrestha?trk=profile-badge">Ajay Shrestha</a></div>
               
