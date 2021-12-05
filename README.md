@@ -6,10 +6,10 @@ Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (He
 
 
 ## Education & Experience
-- 15 years of engineering and management experience in DevOps and Systems Engineering at US companies ranging from startups (internet, healthcare, AI) to fortune 100 corporation including [iMedX](https://imedx.com/), [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html) and [Imagen Technologies](https://imagen.ai/) (present)
+- 15+ years of engineering and management experience in DevOps and Systems Engineering at US companies ranging from startups (internet, healthcare, life sciences, AI) to fortune 100 corporation including [iMedX](https://imedx.com/), [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html) and [Imagen Technologies](https://imagen.ai/) (present)
 - BS/MS/PhD, Computer Science & Engineering, [University of Bridgeport](https://www.bridgeport.edu/), Connecticut, USA
 - Industry Certifications in project management (PMP), cloud development, devops, machine learning and others, [link](https://www.youracclaim.com/users/ajayshrestha/badges) 
-- 4 years  of teaching (2016 - present) as Adjunct Faculty: Teach courses in Cloud Computing and Embedded Systems Designs (micro-controllers) to engineering students at the University of Bridgeport
+- 5 years  of teaching (2016 - present) as Adjunct Faculty: Teach courses in Cloud Computing and Embedded Systems Designs (micro-controllers) to engineering students at the University of Bridgeport
 
 
 ## Interests
@@ -25,6 +25,7 @@ Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (He
 - [Credly Certifications](https://www.youracclaim.com/users/ajayshrestha/badges)
 - [Github](https://github.com/shrestha-ajay)
 - [Twitter](https://twitter.com/ajayshrestha)
+- [Coursera](https://www.coursera.org/user/4da4f705ec02df3d04335eb2f75c44c8)
 
 
 ## Select 1st Author Publications on Machine Learning
@@ -49,4 +50,3 @@ Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (He
 - A Breif History of Everything - Ken Wilber
 - The Nature of Consciousness: Essays on the Unity of Mind and Matter - Rupert Spira
 - High Output Management - Andrew S. Grove
-              
