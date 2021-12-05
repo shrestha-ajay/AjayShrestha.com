@@ -24,7 +24,7 @@ Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (He
 - [Google Scholar](https://scholar.google.com/citations?user=wtBCz0QAAAAJ)
 - [Credly Certifications](https://www.youracclaim.com/users/ajayshrestha/badges)
 - [Github](https://github.com/shrestha-ajay)
-- [Coursera (continuous learning)](https://www.coursera.org/user/4da4f705ec02df3d04335eb2f75c44c8)
+- [Coursera](https://www.coursera.org/user/4da4f705ec02df3d04335eb2f75c44c8)
 - [Twitter](https://twitter.com/ajayshrestha)
 
 
