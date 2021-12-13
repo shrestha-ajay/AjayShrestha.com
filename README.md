@@ -6,7 +6,7 @@ Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (He
 
 
 ## Education & Experience
-- 15+ years of engineering and management experience in DevOps and Systems Engineering at US companies ranging from startups (internet, healthcare, life sciences, AI) to fortune 100 corporation including [iMedX](https://imedx.com/), [Core Informatics - acquired by Thermo Fisher](http://coreinformatics.com/), [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html) and [Imagen Technologies](https://imagen.ai/) (present)
+- 15+ years of engineering and management experience in DevOps and Systems Engineering at US companies ranging from startups (internet, healthcare, life sciences, AI) to fortune 100 corporation including [iMedX](https://imedx.com/), [Core Informatics](http://coreinformatics.com/), [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html) and [Imagen Technologies](https://imagen.ai/) (present)
 - BS/MS/PhD, Computer Science & Engineering, [University of Bridgeport](https://www.bridgeport.edu/), Connecticut, USA
 - Industry Certifications in project management (PMP), cloud development, devops, machine learning and others, [link](https://www.youracclaim.com/users/ajayshrestha/badges) 
 - 5 years  of teaching (2016 - present) as Adjunct Faculty: Teach courses in Cloud Computing and Embedded Systems Designs (micro-controllers) to engineering students at the University of Bridgeport
