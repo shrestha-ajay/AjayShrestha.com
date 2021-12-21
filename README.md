@@ -2,7 +2,7 @@
 
 [comment]: <> (this is a test)
 
-Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (Healthcare AI startup in NYC) as an engineer and teach at the University of Bridgeport (CT) as an adjunct faculty. I received PhD in machine learning in 2019. I am passionate about contineous learning and applying knowledge/experience to solve problems and have a positive impact on the world.
+Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (Healthcare AI startup in new york city) as an engineer and teach part-time at the University of Bridgeport (CT) as an adjunct faculty. I received PhD in machine learning in 2019. I am passionate about contineous learning and applying knowledge/experience to solve problems and have a positive impact on the world.
 
 
 ## Education & Experience
@@ -15,9 +15,6 @@ Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (He
 ## Interests
 - Technology: AI, Blockchain and Quantum Computing
 - Industry: Healthcare, Life Sciences, Sustainability
-- Philosophy: Hard problem of Consciousness
-- Wellbeing: Mindfullness
-
 
 ## Web Profiles
 - [LinkedIn](https://www.linkedin.com/in/ajayshrestha/)
@@ -25,7 +22,6 @@ Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (He
 - [Credly Certifications](https://www.youracclaim.com/users/ajayshrestha/badges)
 - [Github](https://github.com/shrestha-ajay)
 - [Coursera](https://www.coursera.org/user/4da4f705ec02df3d04335eb2f75c44c8)
-- [Twitter](https://twitter.com/ajayshrestha)
 
 
 ## Select 1st Author Publications on Machine Learning
@@ -43,10 +39,3 @@ Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (He
 -	Upsilon Pi Epsilon Executive Council Award, 2016. Award News-brief, [link](https://www.cs.ucla.edu/wp-content/uploads/cs/UPE-News-August-2016-Scholarships.pdf)
 -	Interviewed by the editor of Scientific Computing World magazine on latest trends in SaaS (Cloud and AI) – interview article – Feb 2020, [link](https://www.scientific-computing.com/feature/making-case-cloud)
 -	Entrepreneurship Specialization (5 courses) – Coursera (Wharton Online) [certification link](https://www.coursera.org/account/accomplishments/specialization/certificate/ZL4WT3NHK2AT) - August 2020
-
-
-## Recently read books
-- Sapiens: A Brief History of Humankind - Yuval Noah Harari
-- A Breif History of Everything - Ken Wilber
-- The Nature of Consciousness: Essays on the Unity of Mind and Matter - Rupert Spira
-- High Output Management - Andrew S. Grove
