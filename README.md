@@ -21,6 +21,8 @@ Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (He
 - [Google Scholar](https://scholar.google.com/citations?user=wtBCz0QAAAAJ)
 - [Credly Certifications](https://www.youracclaim.com/users/ajayshrestha/badges)
 - [Github](https://github.com/shrestha-ajay)
+- [ResearchGate](https://www.researchgate.net/profile/Ajay-Shrestha)
+- [Medium](https://ajay-shrestha.medium.com/)
 - [Coursera](https://www.coursera.org/user/4da4f705ec02df3d04335eb2f75c44c8)
 
 
@@ -30,12 +32,13 @@ Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (He
 -	Journal: Review of Deep Learning Algorithms and Architectures, in IEEE Access, 2019, [link](https://ieeexplore.ieee.org/document/8694781)
 -	Conference: Enhancing Siamese Networks Training with Importance Sampling, 11th International Conference on Agents and Artificial Intelligence ICAART, Prague, Czech Republic, 2019, [link](http://dx.doi.org/10.5220/0007371706100615)
 -	Journal: Improving Genetic Algorithm with Fine-Tuned Crossover and Scaled Architecture, Journal of Mathematics, 2016, [link](http://dx.doi.org/10.1155/2016/4015845)
--	Thermo Fisher Scientific Blog Post, “Machine Learning: A Primer to Laboratory Applications”, Jan 2020,  [link](https://www.thermofisher.com/blog/connectedlab/machine-learning-a-primer-to-laboratory-applications/)
+-	Thermo Fisher Scientific Blog Post, “Machine Learning: A Primer to Laboratory Applications”, Jan 2020,  [link](https://www.thermofisher.com/blog/connectedlab/machine-learning-a-primer-to-laboratory-applications/). Listed as [top 5](https://www.thermofisher.com/blog/connectedlab/top-5-connected-lab-blogs-for-2020/) blogs for 2020.
 
 
 ## Activities
 -	Vice President, [Upsilon Pi Epsilon](https://upe.acm.org/) Honor Society (Connecticut Delta Chapter), 2014 – 2019
--	Technical Committee Member, International Conference on Systems, Computing Sciences and Software Engineering (SCSS 2012, 2013, 2014)
+-	Board of Directors, University of Bridgeport Alumni Association (UBAA), 2022-Present
+- Technical Committee Member, International Conference on Systems, Computing Sciences and Software Engineering (SCSS 2012, 2013, 2014)
 -	Upsilon Pi Epsilon Executive Council Award, 2016. Award News-brief, [link](https://www.cs.ucla.edu/wp-content/uploads/cs/UPE-News-August-2016-Scholarships.pdf)
 -	Interviewed by the editor of Scientific Computing World magazine on latest trends in SaaS (Cloud and AI) – interview article – Feb 2020, [link](https://www.scientific-computing.com/feature/making-case-cloud)
 -	Entrepreneurship Specialization (5 courses) – Coursera (Wharton Online) [certification link](https://www.coursera.org/account/accomplishments/specialization/certificate/ZL4WT3NHK2AT) - August 2020
