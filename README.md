@@ -2,7 +2,7 @@
 
 [comment]: <> (this is a test)
 
-Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (Healthcare AI startup in New York City) as an engineer and teach part-time at the University of Bridgeport (CT) as an adjunct faculty. I received PhD in machine learning in 2019. I am passionate about contineous learning and applying knowledge/experience to solve problems and have a positive impact on the world.
+Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (Healthcare AI startup in New York City) as an engineer and teach part-time at the University of Bridgeport (CT) as an adjunct faculty. I received PhD in machine learning in 2019. I am passionate about contineous learning and applying knowledge/experience to solve problems and have a positive impact in the world.
 
 
 ## Education & Experience
@@ -13,7 +13,7 @@ Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (He
 
 
 ## Interests
-- Technology: AI, Blockchain and Quantum Computing
+- Technology: AI, Cryptography and Quantum Computing
 - Industry: Healthcare, Life Sciences, Sustainability
 
 ## Web Profiles
@@ -23,6 +23,7 @@ Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (He
 - [Github](https://github.com/shrestha-ajay)
 - [ResearchGate](https://www.researchgate.net/profile/Ajay-Shrestha)
 - [Medium](https://ajay-shrestha.medium.com/)
+- [Twitter](https://twitter.com/ajayshrestha)
 - [Coursera](https://www.coursera.org/user/4da4f705ec02df3d04335eb2f75c44c8)
 
 
