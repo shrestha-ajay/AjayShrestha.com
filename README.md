@@ -1,9 +1,7 @@
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-## Introduction
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="ajayshrestha" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ajayshrestha?trk=profile-badge">Ajay Shrestha</a></div>
-              
-              
+
+## Introduction              
 Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (Healthcare AI startup in New York City) as an engineer and teach part-time at the University of Bridgeport (CT) as an adjunct faculty. I received PhD in machine learning in 2019. I am passionate about contineous learning and applying knowledge/experience to solve problems and have a positive impact in the world.
 
 
