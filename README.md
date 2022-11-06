@@ -1,5 +1,5 @@
 ## Introduction              
-Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (Healthcare AI startup in New York City) as an engineering manager and teach part-time at the University of Bridgeport (CT) as an adjunct faculty. I received PhD in machine learning in 2019. I am passionate about contineous learning and applying knowledge/experience to solve problems and have a positive impact in the world.
+Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (Healthcare AI startup in New York City) as engineering manager and teach part-time at the University of Bridgeport (CT) as an adjunct faculty. I received PhD in machine learning in 2019. I am passionate about contineous learning and applying knowledge/experience to solve problems and have a positive impact in the world.
 
 
 ## Education & Experience
