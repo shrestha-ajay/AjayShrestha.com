@@ -41,7 +41,7 @@ Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (He
 -	Upsilon Pi Epsilon Executive Council Award, 2016. Award News-brief, [link](https://www.cs.ucla.edu/wp-content/uploads/cs/UPE-News-August-2016-Scholarships.pdf)
 - Technical Committee Member, International Conference on Systems, Computing Sciences and Software Engineering (SCSS 2012, 2013, 2014)
 
-## Reading List
+## Recently Read Books
 - The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses - by Eric Ries
 - High Output Management - by Andrew S. Grove
 - Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results - by Christina Wodtke
