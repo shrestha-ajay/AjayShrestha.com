@@ -40,3 +40,11 @@ Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (He
 -	Vice President, [Upsilon Pi Epsilon](https://upe.acm.org/) Honor Society (Connecticut Delta Chapter), 2014 – 2019
 -	Upsilon Pi Epsilon Executive Council Award, 2016. Award News-brief, [link](https://www.cs.ucla.edu/wp-content/uploads/cs/UPE-News-August-2016-Scholarships.pdf)
 - Technical Committee Member, International Conference on Systems, Computing Sciences and Software Engineering (SCSS 2012, 2013, 2014)
+
+## Reading List
+- The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses - by Eric Ries
+- High Output Management - by Andrew S. Grove
+- Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results - by Christina Wodtke
+- Sapiens: A Brief History of Humankind - by Yuval Noah Harari
+- A Brief History of Everything - by Ken Wilber
+- AI Superpowers: China, Silicon Valley, and the New World Order - by Kai-Fu Lee
