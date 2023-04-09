@@ -38,6 +38,7 @@ Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (He
 -	Entrepreneurship Specialization (5 courses) – Coursera (Wharton Online) [certification link](https://www.coursera.org/account/accomplishments/specialization/certificate/ZL4WT3NHK2AT) - August 2020
 -	Vice President, [Upsilon Pi Epsilon](https://upe.acm.org/) Honor Society (Connecticut Delta Chapter), 2014 – 2019
 - Technical Committee Member, International Conference on Systems, Computing Sciences and Software Engineering (SCSS 2012, 2013, 2014)
+- Senator, School of Engineering, Student Congress during BS Computer Engineering studies, University of Bridgeport
 
 
 ## Awards
