@@ -16,6 +16,7 @@ Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (He
 ## Web Profiles
 - [LinkedIn](https://www.linkedin.com/in/ajayshrestha/)
 - [Google Scholar](https://scholar.google.com/citations?user=wtBCz0QAAAAJ)
+- [University Faculty](https://profiles.bridgeport.edu/user/shrestha/)
 - [Credly Certifications](https://www.youracclaim.com/users/ajayshrestha/badges)
 - [Github](https://github.com/shrestha-ajay)
 - [ResearchGate](https://www.researchgate.net/profile/Ajay-Shrestha)
