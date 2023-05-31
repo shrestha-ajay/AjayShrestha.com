@@ -1,27 +1,28 @@
-## Introduction              
-Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (Healthcare AI startup in New York City) as engineering manager and teach part-time at the University of Bridgeport (CT) as an adjunct faculty. I received PhD in machine learning in 2019. I am passionate about contineous learning and applying knowledge/experience to solve problems and have a positive impact in the world.
+## Introduction         
+Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (Healthcare AI startup in New York City) as engineering manager and teach part-time at the University of Bridgeport (CT) as adjunct faculty. I received PhD in machine learning in 2019. I am passionate about contineous learning and applying knowledge/experience to solve problems and have a positive impact in the world.
+
+
+## Expertise
+- Technology: Cloud Computing, Software Engineering, Machine Learning, Cryptography
+- Industry: Healthcare, Life Sciences, Education
 
 
 ## Education & Experience
 - 17+ years of engineering and management experience at US companies ranging from startups (Internet, healthcare, life sciences, AI) to Fortune 100 corporation including [iMedX](https://imedx.com/), [Core Informatics](http://coreinformatics.com/), [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html) and [Imagen Technologies](https://imagen.ai/) (present)
 - BS/MS/PhD, Computer Science & Engineering, [University of Bridgeport](https://www.bridgeport.edu/), Connecticut, USA
 - Industry Certifications in project management (PMP), cloud development, devops, machine learning and others, [link](https://www.youracclaim.com/users/ajayshrestha/badges) 
-- 6+ years  of teaching (2016 - present) as Adjunct Faculty: Teach courses in Cloud Computing and Embedded Systems Designs (micro-controllers) to engineering students at the University of Bridgeport
+- 6+ years of teaching (2016 - present) as Adjunct Faculty: Teach courses in Cloud Computing and Embedded Systems Designs (micro-controllers) to engineering students at the University of Bridgeport
 
-
-## Interests
-- Technology: AI, Cloud Computing, Cryptography and Quantum Computing
-- Industry: Healthcare, Life Sciences, Sustainability
 
 ## Web Profiles
 - [LinkedIn](https://www.linkedin.com/in/ajayshrestha/)
 - [Google Scholar](https://scholar.google.com/citations?user=wtBCz0QAAAAJ)
 - [University Faculty](https://profiles.bridgeport.edu/user/shrestha/)
+- [Medium](https://ajay-shrestha.medium.com/)
 - [Credly Certifications](https://www.youracclaim.com/users/ajayshrestha/badges)
 - [Github](https://github.com/shrestha-ajay)
-- [ResearchGate](https://www.researchgate.net/profile/Ajay-Shrestha)
-- [Medium](https://ajay-shrestha.medium.com/)
 - [Twitter](https://twitter.com/ajayshrestha)
+- [ResearchGate](https://www.researchgate.net/profile/Ajay-Shrestha)
 
 
 ## Select 1st Author Publications on Machine Learning (Deep Learning)
@@ -45,7 +46,11 @@ Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (He
 ## Awards
 -	Upsilon Pi Epsilon Executive Council Award, 2016. Award News-brief, [link](https://www.cs.ucla.edu/wp-content/uploads/cs/UPE-News-August-2016-Scholarships.pdf)
 - Merit-based Academic Excellence Scholarship (full tuition) for BS Computer Engineering 
-- Graduate Assistanship for MS Computer Science
+- Graduate Assistantship for MS Computer Science
+
+
+## Interests
+- Quantum Physics, Philosophy, Wellbeing, Sustainability, Entrepreneurship
 
 
 ## Recently Read Books
@@ -55,4 +60,5 @@ Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (He
 - Sapiens: A Brief History of Humankind - by Yuval Noah Harari
 - A Brief History of Everything - by Ken Wilber
 - AI Superpowers: China, Silicon Valley, and the New World Order - by Kai-Fu Lee
+- Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones - by James Clear
 
