@@ -1,5 +1,5 @@
 ## Introduction         
-Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (Healthcare AI startup in New York City) as engineering manager and teach part-time at the University of Bridgeport (CT) as adjunct faculty. I received PhD in machine learning in 2019. I am passionate about contineous learning and applying knowledge/experience to solve problems and have a positive impact in the world.
+My name is Ajay Shrestha. I work for Imagen Technologies (Healthcare AI startup in New York City) as engineering manager and teach part-time at the University of Bridgeport (CT) as adjunct faculty. I received PhD in machine learning in 2019. I am passionate about contineous learning and applying knowledge/experience to solve problems and have a positive impact in the world.
 
 
 ## Expertise
@@ -7,11 +7,14 @@ Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (He
 - Industry: Healthcare, Life Sciences, Education
 
 
-## Education & Experience
+## Experience
 - 17+ years of engineering and management experience at US companies ranging from startups (Internet, healthcare, life sciences, AI) to Fortune 100 corporation including [iMedX](https://imedx.com/), [Core Informatics](http://coreinformatics.com/), [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html) and [Imagen Technologies](https://imagen.ai/) (present)
+- 6+ years of teaching (2016 - present) as Adjunct Faculty: Teach courses in Cloud Computing and Embedded Systems Designs (micro-controllers) to engineering students at the University of Bridgeport
+
+
+## Education & Certifications
 - BS/MS/PhD, Computer Science & Engineering, [University of Bridgeport](https://www.bridgeport.edu/), Connecticut, USA
 - Industry Certifications in project management (PMP), cloud development, devops, machine learning and others, [link](https://www.youracclaim.com/users/ajayshrestha/badges) 
-- 6+ years of teaching (2016 - present) as Adjunct Faculty: Teach courses in Cloud Computing and Embedded Systems Designs (micro-controllers) to engineering students at the University of Bridgeport
 
 
 ## Web Profiles
@@ -25,7 +28,7 @@ Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (He
 - [ResearchGate](https://www.researchgate.net/profile/Ajay-Shrestha)
 
 
-## Select 1st Author Publications on Machine Learning (Deep Learning)
+## Select First Author Publications on Machine Learning (Deep Learning)
 -	Dissertation: Enhanced Deep Network Designs Using Mitochondrial DNA Based Genetic Algorithm and Importance Sampling, 2019, [link](https://www.proquest.com/docview/2322784986/631422EFED204CFDPQ/)
 -	Conference: Optimizing Deep Neural Network Architecture with Enhanced Genetic Algorithm, 18th IEEE International Conference on Machine Learning and Applications, ICMLA, 2019, Florida, [link](https://ieeexplore.ieee.org/abstract/document/8999193)
 -	Journal: Review of Deep Learning Algorithms and Architectures, in IEEE Access, 2019, [link](https://ieeexplore.ieee.org/document/8694781)
@@ -50,7 +53,7 @@ Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (He
 
 
 ## Interests
-- Quantum Physics, Philosophy, Wellbeing, Sustainability, Entrepreneurship
+- Philosophy, Wellbeing, Sustainability, Entrepreneurship, Quantum Mechanics
 
 
 ## Recently Read Books
@@ -61,4 +64,4 @@ Welcome to my site. My name is Ajay Shrestha. I work for Imagen Technologies (He
 - A Brief History of Everything - by Ken Wilber
 - AI Superpowers: China, Silicon Valley, and the New World Order - by Kai-Fu Lee
 - Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones - by James Clear
-
+- The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations - Gene Kim , et al.
