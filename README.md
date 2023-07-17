@@ -72,6 +72,7 @@ PhD in Machine Learning with almost two decades of engineering and management ex
 - High Output Management - by Andrew S. Grove
 - Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results - by Christina Wodtke
 - Sapiens: A Brief History of Humankind - by Yuval Noah Harari
+- 21 Lessons for the 21st Century - by Yuval Noah Harari
 - A Brief History of Everything - by Ken Wilber
 - Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones - by James Clear
 \
