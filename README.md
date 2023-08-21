@@ -26,6 +26,7 @@ PhD in Machine Learning with almost two decades of engineering and management ex
 - [Google Scholar](https://scholar.google.com/citations?user=wtBCz0QAAAAJ)
 - [University Faculty](https://profiles.bridgeport.edu/user/shrestha/)
 - [Medium](https://ajay-shrestha.medium.com/)
+- [Everest AI Journal](https://everestaijournal.com/)
 - [Credly Certifications](https://www.youracclaim.com/users/ajayshrestha/badges)
 - [Github](https://github.com/shrestha-ajay)
 - [Twitter](https://twitter.com/ajayshrestha)
@@ -66,14 +67,15 @@ PhD in Machine Learning with almost two decades of engineering and management ex
 &nbsp;
 
 ## Recently Read Books
-- The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses - by Eric Ries
-- The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations - Gene Kim , et al.
-- AI Superpowers: China, Silicon Valley, and the New World Order - by Kai-Fu Lee
-- High Output Management - by Andrew S. Grove
-- Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results - by Christina Wodtke
-- Sapiens: A Brief History of Humankind - by Yuval Noah Harari
-- 21 Lessons for the 21st Century - by Yuval Noah Harari
-- A Brief History of Everything - by Ken Wilber
-- Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones - by James Clear
+- The Startup of You: Adapt, Take Risks, Grow Your Network, and Transform Your Career, 2022 - by Reid Hoffman, Ben Casnocha
+- The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations, 2021 - Gene Kim , et al.
+- AI Superpowers: China, Silicon Valley, and the New World Order, 2021 - by Kai-Fu Lee
+- Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results, 2021 - by Christina Wodtke
+- 21 Lessons for the 21st Century, 2019 - by Yuval Noah Harari
+- Sapiens: A Brief History of Humankind, 2018 - by Yuval Noah Harari
+- Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones, 2018 - by James Clear
+- A Brief History of Everything, 2017 - by Ken Wilber
+- The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses, 2011 - by Eric Ries
+- High Output Management, 1995 - by Andrew S. Grove
 \
 &nbsp;
