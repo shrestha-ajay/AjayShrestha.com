@@ -4,7 +4,7 @@ PhD in Machine Learning with almost two decades of engineering and management ex
 &nbsp;
 
 ## Expertise
-- Technology: Cloud Computing, Software Engineering, Machine Learning, Cryptography
+- Technology: DevOps & Cloud Computing, Software Engineering, Machine Learning
 - Industry: Healthcare, Life Sciences, Education
 \
 &nbsp;
@@ -17,17 +17,17 @@ PhD in Machine Learning with almost two decades of engineering and management ex
 
 ## Education & Certifications
 - BS/MS/PhD, Computer Science & Engineering, [University of Bridgeport](https://www.bridgeport.edu/), Connecticut, USA
-- Industry Certifications in project management (PMP), cloud development, devops, machine learning and others, [link](https://www.youracclaim.com/users/ajayshrestha/badges) 
+- Industry Certifications in project management, cloud development, devops, machine learning and others, [link](https://www.credly.com/users/ajayshrestha/badges) 
 \
 &nbsp;
 
 ## Web Profiles
 - [LinkedIn](https://www.linkedin.com/in/ajayshrestha/)
-- [Google Scholar](https://scholar.google.com/citations?user=wtBCz0QAAAAJ)
-- [University Faculty](https://profiles.bridgeport.edu/user/shrestha/)
-- [Medium](https://ajay-shrestha.medium.com/)
-- [Everest AI Journal](https://everestaijournal.com/)
-- [Credly Certifications](https://www.youracclaim.com/users/ajayshrestha/badges)
+- [Research Publications - Google Scholar](https://scholar.google.com/citations?user=wtBCz0QAAAAJ)
+- [University Faculty Profile](https://profiles.bridgeport.edu/user/shrestha/)
+- [Personal Blog](https://blog.ajayshrestha.com/)
+- [AI Journal](https://everestaijournal.com/)
+- [Certifications](https://www.youracclaim.com/users/ajayshrestha/badges)
 - [Github](https://github.com/shrestha-ajay)
 - [Twitter](https://twitter.com/ajayshrestha)
 - [ResearchGate](https://www.researchgate.net/profile/Ajay-Shrestha)
@@ -40,13 +40,13 @@ PhD in Machine Learning with almost two decades of engineering and management ex
 -	Journal: Review of Deep Learning Algorithms and Architectures, in IEEE Access, 2019, [link](https://ieeexplore.ieee.org/document/8694781)
 -	Conference: Enhancing Siamese Networks Training with Importance Sampling, 11th International Conference on Agents and Artificial Intelligence ICAART, Prague, Czech Republic, 2019, [link](http://dx.doi.org/10.5220/0007371706100615)
 -	Journal: Improving Genetic Algorithm with Fine-Tuned Crossover and Scaled Architecture, Journal of Mathematics, 2016, [link](http://dx.doi.org/10.1155/2016/4015845)
--	Thermo Fisher Scientific Blog Post, “Machine Learning: A Primer to Laboratory Applications”, Jan 2020,  [link](https://www.thermofisher.com/blog/connectedlab/machine-learning-a-primer-to-laboratory-applications/). Listed in [top 5](https://www.thermofisher.com/blog/connectedlab/top-5-connected-lab-blogs-for-2020/) blogs for 2020.
 \
 &nbsp;
 
 ## Activities
 - Board of Directors, University of Bridgeport Alumni Association (UBAA), Jan 2022 - Present
 -	Interviewed by the editor of Scientific Computing World magazine on latest trends in SaaS (Cloud and AI) – interview article – Feb 2020, [link](https://www.scientific-computing.com/feature/making-case-cloud)
+-	Thermo Fisher Scientific Blog Post, “Machine Learning: A Primer to Laboratory Applications”, Jan 2020,  [link](https://www.thermofisher.com/blog/connectedlab/machine-learning-a-primer-to-laboratory-applications/). Listed in [top 5](https://www.thermofisher.com/blog/connectedlab/top-5-connected-lab-blogs-for-2020/) blogs for 2020.
 -	Entrepreneurship Specialization (5 courses) – Coursera (Wharton Online) [certification link](https://www.coursera.org/account/accomplishments/specialization/certificate/ZL4WT3NHK2AT) - August 2020
 -	Vice President, [Upsilon Pi Epsilon](https://upe.acm.org/) Honor Society (Connecticut Delta Chapter), 2014 – 2019
 - Technical Committee Member, International Conference on Systems, Computing Sciences and Software Engineering (SCSS 2012, 2013, 2014)
@@ -62,7 +62,7 @@ PhD in Machine Learning with almost two decades of engineering and management ex
 &nbsp;
 
 ## Interests
-- Philosophy, Wellbeing, Sustainability, Entrepreneurship, Quantum Mechanics
+- Philosophy, Well-being, Sustainability, Entrepreneurship, Quantum Mechanics
 \
 &nbsp;
 
@@ -71,6 +71,7 @@ PhD in Machine Learning with almost two decades of engineering and management ex
 - The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations, 2021 - Gene Kim, et al.
 - AI Superpowers: China, Silicon Valley, and the New World Order, 2021 - by Kai-Fu Lee
 - Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results, 2021 - by Christina Wodtke
+- Software Engineering at Google: Lessons Learned from Programming Over Time, 2020 - by Titus Winters, Tom Manshreck, Hyrum Wright
 - 21 Lessons for the 21st Century, 2019 - by Yuval Noah Harari
 - Sapiens: A Brief History of Humankind, 2018 - by Yuval Noah Harari
 - Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones, 2018 - by James Clear
