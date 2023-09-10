@@ -23,8 +23,8 @@ PhD in Machine Learning with almost two decades of engineering and management ex
 
 ## Web Profiles
 - [LinkedIn](https://www.linkedin.com/in/ajayshrestha/)
-- [Research Publications - Google Scholar](https://scholar.google.com/citations?user=wtBCz0QAAAAJ)
-- [University Faculty Profile](https://profiles.bridgeport.edu/user/shrestha/)
+- [Google Scholar](https://scholar.google.com/citations?user=wtBCz0QAAAAJ)
+- [University Faculty](https://profiles.bridgeport.edu/user/shrestha/)
 - [Personal Blog](https://blog.ajayshrestha.com/)
 - [AI Journal](https://everestaijournal.com/)
 - [Certifications](https://www.youracclaim.com/users/ajayshrestha/badges)
