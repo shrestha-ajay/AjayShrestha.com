@@ -34,7 +34,7 @@ PhD in Machine Learning with almost two decades of engineering and management ex
 \
 &nbsp;
 
-## Select First Author Publications on Machine Learning (Deep Learning)
+## Select First Author Research Publications on Machine Learning (Deep Learning)
 -	Dissertation: Enhanced Deep Network Designs Using Mitochondrial DNA Based Genetic Algorithm and Importance Sampling, 2019, [link](https://www.proquest.com/docview/2322784986/631422EFED204CFDPQ/)
 -	Conference: Optimizing Deep Neural Network Architecture with Enhanced Genetic Algorithm, 18th IEEE International Conference on Machine Learning and Applications, ICMLA, 2019, Florida, [link](https://ieeexplore.ieee.org/abstract/document/8999193)
 -	Journal: Review of Deep Learning Algorithms and Architectures, in IEEE Access, 2019, [link](https://ieeexplore.ieee.org/document/8694781)
@@ -68,8 +68,9 @@ PhD in Machine Learning with almost two decades of engineering and management ex
 
 ## Recently Read Books
 - The Startup of You: Adapt, Take Risks, Grow Your Network, and Transform Your Career, 2022 - by Reid Hoffman & Ben Casnocha
+- Learning Agile: Understanding Scrum, XP, Lean, and Kanban, 2021 – Andrew Stellman, et al.
 - The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations, 2021 - Gene Kim, et al.
-- AI Superpowers: China, Silicon Valley, and the New World Order, 2021 - by Kai-Fu Lee
+- AI Superpowers: China, Silicon Valley, and the New World Order, 2018 - by Kai-Fu Lee
 - Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results, 2021 - by Christina Wodtke
 - Software Engineering at Google: Lessons Learned from Programming Over Time, 2020 - by Titus Winters, Tom Manshreck, Hyrum Wright
 - 21 Lessons for the 21st Century, 2019 - by Yuval Noah Harari
