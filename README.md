@@ -67,19 +67,19 @@ PhD in Machine Learning with almost two decades of engineering and management ex
 &nbsp;
 
 ## Recently Read Books
-- The Startup of You: Adapt, Take Risks, Grow Your Network, and Transform Your Career, 2022 - by Reid Hoffman, et al.
-- Learning Agile: Understanding Scrum, XP, Lean, and Kanban, 2021 – Andrew Stellman, et al.
-- The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations, 2021 - Gene Kim, et al.
-- AI Superpowers: China, Silicon Valley, and the New World Order, 2018 - by Kai-Fu Lee
-- Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results, 2021 - by Christina Wodtke
-- Software Engineering at Google: Lessons Learned from Programming Over Time, 2020 - by Titus Winters, et al.
+- The Startup of You, 2022 - by Reid Hoffman
+- Learning Agile, 2021 – by Andrew Stellman
+- The DevOps Handbook, 2021 - by Gene Kim
+- AI Superpowers, 2018 - by Kai-Fu Lee
+- Radical Focus, 2021 - by Christina Wodtke
+- Software Engineering at Google, 2020 - by Titus Winters
 - 21 Lessons for the 21st Century, 2019 - by Yuval Noah Harari
-- Sapiens: A Brief History of Humankind, 2018 - by Yuval Noah Harari
-- Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones, 2018 - by James Clear
+- Sapiens, 2018 - by Yuval Noah Harari
+- Atomic Habits, 2018 - by James Clear
 - A Brief History of Everything, 2017 - by Ken Wilber
 - Seven Brief Lessons on Physics, 2016 - by Carlo Rovelli
-- Zero to One: Notes on Startups, or How to Build the Future, 2014 - by Peter Thiel, et al.
-- The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses, 2011 - by Eric Ries
+- Zero to One, 2014 - by Peter Thiel
+- The Lean Startup, 2011 - by Eric Ries
 - High Output Management, 1995 - by Andrew S. Grove
 \
 &nbsp;
