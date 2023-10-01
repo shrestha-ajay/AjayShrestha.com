@@ -10,7 +10,7 @@ PhD in Machine Learning with almost two decades of engineering and management ex
 &nbsp;
 
 ## Experience
-- 17+ years of engineering and management experience at US companies ranging from startups (Internet, healthcare, life sciences, AI) to Fortune 100 corporation including [iMedX](https://imedx.com/), [Core Informatics](http://coreinformatics.com/), [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html) and [Imagen Technologies](https://imagen.ai/) (present)
+- ~ Two decades of engineering and management experience at US companies ranging from startups (Internet, healthcare, life sciences, AI) to Fortune 100 corporations including [iMedX](https://imedx.com/), [Core Informatics](http://coreinformatics.com/), [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html) and [Imagen Technologies](https://imagen.ai/) (present)
 - 6+ years of teaching (2016 - present) as Adjunct Faculty: Teach courses in Cloud Computing and Embedded Systems Designs (micro-controllers) to engineering students at the University of Bridgeport
 \
 &nbsp;
@@ -37,7 +37,7 @@ PhD in Machine Learning with almost two decades of engineering and management ex
 ## Select First Author Research Publications on Machine Learning (Deep Learning)
 -	Dissertation: Enhanced Deep Network Designs Using Mitochondrial DNA Based Genetic Algorithm and Importance Sampling, 2019, [link](https://www.proquest.com/docview/2322784986/631422EFED204CFDPQ/)
 -	Conference: Optimizing Deep Neural Network Architecture with Enhanced Genetic Algorithm, 18th IEEE International Conference on Machine Learning and Applications, ICMLA, 2019, Florida, [link](https://ieeexplore.ieee.org/abstract/document/8999193)
--	Journal: Review of Deep Learning Algorithms and Architectures, in IEEE Access, 2019, [link](https://ieeexplore.ieee.org/document/8694781) - ⭐ **1k+ Citations** ⭐ per [Google Scholar](https://scholar.google.com/citations?user=wtBCz0QAAAAJ)  
+-	Journal: Review of Deep Learning Algorithms and Architectures, in IEEE Access, 2019, [link](https://ieeexplore.ieee.org/document/8694781) - ⭐ **1k+ citations** ⭐ per [Google Scholar](https://scholar.google.com/citations?user=wtBCz0QAAAAJ)  
 -	Conference: Enhancing Siamese Networks Training with Importance Sampling, 11th International Conference on Agents and Artificial Intelligence ICAART, Prague, Czech Republic, 2019, [link](http://dx.doi.org/10.5220/0007371706100615)
 -	Journal: Improving Genetic Algorithm with Fine-Tuned Crossover and Scaled Architecture, Journal of Mathematics, 2016, [link](http://dx.doi.org/10.1155/2016/4015845)
 \
