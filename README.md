@@ -1,5 +1,5 @@
 ## Introduction         
-PhD in Machine Learning with almost two decades of engineering and management experience, [Ajay Shrestha](https://www.ajayshrestha.com/) is a leader driving technical innovation. As an Engineering Manager at [Imagen](https://imagen.ai/) (NYC based Healthcare AI startup), he is responsible for the cloud infrastructure supporting AI driven medical diagnostics-as-a-service platform, while inspiring the next generation as a computer science faculty at the [University of Bridgeport](https://www.bridgeport.edu/). Passionate about AI and disruptive technologies, Ajay aims to collaborate and make a positive impact in the world.
+PhD in Machine Learning with almost two decades of engineering and management experience, **[Ajay Shrestha](https://www.ajayshrestha.com/)** is a leader driving technical innovation. As an Engineering Manager at [Imagen](https://imagen.ai/) (NYC based Healthcare AI startup), he is responsible for the cloud infrastructure supporting AI driven medical diagnostics-as-a-service platform, while inspiring the next generation as a computer science faculty at the [University of Bridgeport](https://www.bridgeport.edu/). Passionate about AI and disruptive technologies, Ajay aims to collaborate and make a positive impact in the world.
 \
 &nbsp;
 
@@ -37,7 +37,7 @@ PhD in Machine Learning with almost two decades of engineering and management ex
 ## Select First Author Research Publications on Machine Learning (Deep Learning)
 -	Dissertation: Enhanced Deep Network Designs Using Mitochondrial DNA Based Genetic Algorithm and Importance Sampling, 2019, [link](https://www.proquest.com/docview/2322784986/631422EFED204CFDPQ/)
 -	Conference: Optimizing Deep Neural Network Architecture with Enhanced Genetic Algorithm, 18th IEEE International Conference on Machine Learning and Applications, ICMLA, 2019, Florida, [link](https://ieeexplore.ieee.org/abstract/document/8999193)
--	[!NOTE] 1k+ citations / Journal: Review of Deep Learning Algorithms and Architectures, in IEEE Access, 2019, [link](https://ieeexplore.ieee.org/document/8694781)
+-	⭐ **1k+ citations** ⭐ Journal: Review of Deep Learning Algorithms and Architectures, in IEEE Access, 2019, [link](https://ieeexplore.ieee.org/document/8694781)
 -	Conference: Enhancing Siamese Networks Training with Importance Sampling, 11th International Conference on Agents and Artificial Intelligence ICAART, Prague, Czech Republic, 2019, [link](http://dx.doi.org/10.5220/0007371706100615)
 -	Journal: Improving Genetic Algorithm with Fine-Tuned Crossover and Scaled Architecture, Journal of Mathematics, 2016, [link](http://dx.doi.org/10.1155/2016/4015845)
 \
