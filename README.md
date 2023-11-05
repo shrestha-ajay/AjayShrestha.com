@@ -5,8 +5,9 @@ PhD in Machine Learning with almost two decades of engineering and management ex
 
 ## Expertise
 - Technology: DevOps, Cloud Computing, Software Engineering, Machine Learning
+- Management: Agile, Lean, Product Development
 - Industry: Healthcare, Life Sciences, Education
-- Others: Agile, Lean, Research
+
 \
 &nbsp;
 
@@ -63,7 +64,7 @@ PhD in Machine Learning with almost two decades of engineering and management ex
 &nbsp;
 
 ## Interests
-- Philosophy, Well-being, Sustainability, Entrepreneurship, Quantum Mechanics
+- Philosophy, Wellbeing, Sustainability, Entrepreneurship, Quantum Mechanics
 \
 &nbsp;
 
