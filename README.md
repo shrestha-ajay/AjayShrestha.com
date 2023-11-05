@@ -7,7 +7,6 @@ PhD in Machine Learning with almost two decades of engineering and management ex
 - Technology: DevOps, Cloud Computing, Software Engineering, Machine Learning
 - Management: Agile, Lean, Product Development
 - Industry: Healthcare, Life Sciences, Education
-
 \
 &nbsp;
 
