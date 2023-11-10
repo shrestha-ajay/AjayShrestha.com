@@ -68,6 +68,7 @@ PhD in Machine Learning with almost two decades of engineering and management ex
 &nbsp;
 
 ## Recently Read Books
+- [AI Revolution in Medicine](https://www.amazon.com/AI-Revolution-Medicine-GPT-4-Beyond/dp/0138200130?&_encoding=UTF8&tag=ajayshrestha-20&linkCode=ur2&linkId=578b78b7eedc051272b875cf452f2ba9&camp=1789&creative=9325) - by Peter Lee
 - [The Startup of You](https://www.amazon.com/Start-up-You-Future-Yourself-Transform/dp/0307888908/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1695694171&sr=8-1&_encoding=UTF8&tag=ajayshrestha-20&linkCode=ur2&linkId=df84bae53afbd58380fd3de7eee0e55f&camp=1789&creative=9325&_encoding=UTF8&tag=ajayshrestha-20&linkCode=ur2&linkId=cadc8cea43d438b2453bed316ee6c5b9&camp=1789&creative=9325) - by Reid Hoffman
 - [Learning Agile](https://www.amazon.com/Learning-Agile-Understanding-Scrum-Kanban/dp/B094NYWWFN/ref=sr_1_1?crid=10BT06ASYASJ1&keywords=Learning+Agile+book+paper&qid=1695694353&s=audible&sprefix=learning+agile+book+pape%252Caudible%252C93&sr=1-1&_encoding=UTF8&tag=ajayshrestha-20&linkCode=ur2&linkId=360b6ee966302703fd25e804b647cdc6&camp=1789&creative=9325) – by Andrew Stellman
 - [The DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1950508404/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1695694419&sr=1-1&_encoding=UTF8&tag=ajayshrestha-20&linkCode=ur2&linkId=fc3c397cae1594fc6e1877c5db039c60&camp=1789&creative=9325) - by Gene Kim
