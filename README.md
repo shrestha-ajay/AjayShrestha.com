@@ -60,8 +60,8 @@ PhD in Machine Learning with almost two decades of engineering and management ex
 
 ## Awards
 -	Upsilon Pi Epsilon Executive Council Award, 2016. Award News-brief, [link](https://www.cs.ucla.edu/wp-content/uploads/cs/UPE-News-August-2016-Scholarships.pdf)
-- Merit-based Academic Excellence Scholarship (full tuition) for BS Computer Engineering 
-- Graduate Assistantship for MS Computer Science
+- Merit-based Academic Excellence Scholarship (full tuition) for BS Computer Engineering, University of Bridgeport
+- Graduate Assistantship for MS Computer Science, University of Bridgeport
 \
 &nbsp;
 
@@ -79,6 +79,7 @@ PhD in Machine Learning with almost two decades of engineering and management ex
 - [Monolith to Microservices](https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform/dp/1492047848?&_encoding=UTF8&tag=ajayshrestha-20&linkCode=ur2&linkId=26e5056b93ac68c5985134b1eff9704b&camp=1789&creative=9325) - by Sam Newman
 - [Lean Enterprise](https://www.amazon.com/Lean-Enterprise-Performance-Organizations-Innovate/dp/1492091774/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=&_encoding=UTF8&tag=ajayshrestha-20&linkCode=ur2&linkId=fb5d5149efa957cfad1b2df2d8d12177&camp=1789&creative=9325) - by Jez Humble
 - [The Deep Learning Revolution](https://www.amazon.com/Deep-Learning-Revolution-MIT-Press/dp/026203803X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1700435242&sr=1-1&_encoding=UTF8&tag=ajayshrestha-20&linkCode=ur2&linkId=93e398f1ae8eeb1f5dac23096a38d092&camp=1789&creative=9325) - by Terrence J. Sejnowski
+- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339?&_encoding=UTF8&tag=ajayshrestha-20&linkCode=ur2&linkId=62aff9d438e2581ecff12cd91f4fa947&camp=1789&creative=9325) - by Nicole Forsgren PhD
 - [AI Superpowers](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1695694458&sr=1-1&_encoding=UTF8&tag=ajayshrestha-20&linkCode=ur2&linkId=3da0fc83c66ce08a05e749980802e512&camp=1789&creative=9325) - by Kai-Fu Lee
 - [Radical Focus](https://www.amazon.com/Radical-Focus-Achieving-Important-Objectives/dp/0996006087/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1695694503&sr=1-1&_encoding=UTF8&tag=ajayshrestha-20&linkCode=ur2&linkId=9f1b6908d03aa5b07549c4ed62ca26d9&camp=1789&creative=9325) - by Christina Wodtke
 - [Software Engineering at Google](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1695694543&sr=1-1&_encoding=UTF8&tag=ajayshrestha-20&linkCode=ur2&linkId=db073c188ea2db21f884f46a143360b0&camp=1789&creative=9325) - by Titus Winters
