@@ -71,7 +71,9 @@ PhD in Machine Learning with almost two decades of engineering and management ex
 &nbsp;
 
 ## Recently Read Books
-<table>										
+<table border="1">		
+	<colgroup>		    <col style="width: 600px;">		   <col style="width: 100px;">		  <col style="width: 200px;">		  <col style="width: 400px;">	  </colgroup>
+
 	<tr>	<th>	Title	</th><th>	Year Published	</th><th>	First Author	</th><th>	Category	</th></tr>
 	<tr>	<td>	 <a href="https://www.amazon.com/AI-Revolution-Medicine-GPT-4-Beyond/dp/0138200130?&_encoding=UTF8&tag=ajayshrestha-20&linkCode=ur2&linkId=578b78b7eedc051272b875cf452f2ba9&camp=1789&creative=9325">AI Revolution in Medicine</a> 	</td><td>	2023	</td><td>	 Peter Lee	</td><td>	Technology, AI, Healthcare	</td></tr>
 	<tr>	<td>	 <a href="https://www.amazon.com/Age-AI-Our-Human-Future/dp/0316273996/ref=sr_1_5?crid=1HPFSHROPJCZD&dib=eyJ2IjoiMSJ9.flHz4wG1OlADOzLc0u92KQOh7Du0GFB56OOLPNg1q7-teFLTP1Xrck31FBocz7IPXgI_WvDcion4mu25-g6kuA.hMqrtXIRiCohXQVPf2aIJbgBSTIiYZCliSwMkfPLehM&dib_tag=se&keywords=ath+age+of+ai&qid=1705292157&sprefix=ath+age+of+ai%252Caps%252C85&sr=8-5&_encoding=UTF8&tag=ajayshrestha-20&linkCode=ur2&linkId=cc455ff0670ae2b3c4499c87122b4017&camp=1789&creative=9325">The Age of AI</a> 	</td><td>	2022	</td><td>	 Henry Kissinger 	</td><td>	Technology, Social Science	</td></tr>
