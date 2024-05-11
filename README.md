@@ -13,7 +13,7 @@ PhD in Machine Learning with almost two decades of engineering and management ex
 &nbsp;
 
 ## Experience
-- ~ Two decades of engineering and management experience at US companies ranging from startups (Internet, healthcare, life sciences, AI) to Fortune 100 corporations including [iMedX](https://imedx.com/), [Core Informatics](http://coreinformatics.com/), [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html) and [Imagen Technologies](https://imagen.ai/) (present)
+- ~ Two decades of engineering and management experience at US companies ranging from startups (Internet, healthcare, life sciences, AI) to Fortune 100 corporations including [iMedX](https://imedx.com/), [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html) and [Imagen Technologies](https://imagen.ai/) (present)
 - 6+ years of teaching (2016 - present) as Adjunct Faculty: Teach courses in Cloud Computing and Embedded Systems Designs (micro-controllers) to engineering students at the University of Bridgeport
 \
 &nbsp;
