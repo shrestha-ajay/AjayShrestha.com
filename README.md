@@ -2,6 +2,7 @@
 
 ## Introduction         
 PhD in Machine Learning with almost two decades of engineering and management experience, **[Ajay Shrestha](https://www.ajayshrestha.com/)** is a leader driving technical innovation. As an Engineering Manager at [Imagen](https://imagen.ai/) (NYC based Healthcare AI startup), he is responsible for the cloud infrastructure supporting AI driven medical diagnostics-as-a-service software platform. Previously, he worked for [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html), where he led engineering teams to architect and deliver software services for life sciences and biotech industries. He is also an adjunct faculty in the computer science department at the [University of Bridgeport (UB)](https://www.bridgeport.edu/). Being an alum of UB, he serves on the board of directors for the UB Alumni Association (UBAA). Passionate about AI and disruptive technologies, Ajay aims to collaborate and make a positive impact in the world.
+
 \
 &nbsp;
 
@@ -28,7 +29,7 @@ PhD in Machine Learning with almost two decades of engineering and management ex
 - [LinkedIn](https://www.linkedin.com/in/ajayshrestha/)
 - [Google Scholar](https://scholar.google.com/citations?user=wtBCz0QAAAAJ)
 - [University Faculty](https://profiles.bridgeport.edu/user/shrestha/)
-- [Personal Blog](https://blog.ajayshrestha.com/)
+- [Blogpost](https://blog.ajayshrestha.com/) - ⭐ ** subscribe [here](https://blog.ajayshrestha.com/subscribe) to get my latest article emailed to you ** ⭐
 - [AI Journal](https://everestaijournal.com/)
 - [Certifications](https://www.youracclaim.com/users/ajayshrestha/badges)
 - [Github](https://github.com/shrestha-ajay)
