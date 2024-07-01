@@ -71,7 +71,7 @@ PhD in Machine Learning with almost two decades of engineering and management ex
 &nbsp;
 
 ## Recently Read Books
-<table border="0">		
+<table border="0" style="font-size: 8px;">		
 	<tr>	<th style="width: 275px;">Title</th><th style="width: 100px;">Published</th><th style="width: 175px;">First Author</th><th style="width: 300px;">Category</th></tr>
 	<tr>	<td>	 <a href="https://www.amazon.com/AI-Revolution-Medicine-GPT-4-Beyond/dp/0138200130?&_encoding=UTF8&tag=ajayshrestha-20&linkCode=ur2&linkId=578b78b7eedc051272b875cf452f2ba9&camp=1789&creative=9325">AI Revolution in Medicine</a> 	</td><td>	2023	</td><td>	 Peter Lee	</td><td>	Technology, AI, Healthcare	</td></tr>
 	<tr>	<td>	 <a href="https://www.amazon.com/Coming-Wave-Technology-Twenty-first-Centurys/dp/0593593952/ref=sr_1_1?dib=eyJ2IjoiMSJ9.dg1AAr7dGZr-1c1pP5UW4deRGe4KBuzQPkEeX3R_ZquflRt8im8W6BmOKWFVs8h-jHWc9I8xedS3rC2kdSYcQdkqKKgS9oayDQq2xoUfTKvO87IVB3uMtfQ6yE6mO1NhgaO16b9pdrCmRW5ChnEhbLee3M7FPYXJ0UzvfsbLly_YXft0on50IyjiTtiTYypZNIrbyDymjrKWsKoHufA9pCevlCLerH1Voa5n5iA2B00.-two6UvspamHrjiuJKfI-nyjc8k6ifQnqUuFWJj6mzY&dib_tag=se&hvadid=661099628632&hvdev=c&hvlocphy=9001953&hvnetw=g&hvqmt=e&hvrand=18133570507672199400&hvtargid=kwd-767087962522&hydadcr=9006_13539748&keywords=the+coming+wave&qid=1709522200&sr=8-1&_encoding=UTF8&tag=ajayshrestha-20&linkCode=ur2&linkId=654ab91ee72c2a274421bd2af61c024f&camp=1789&creative=9325">The Coming Wave</a> 	</td><td>	2023	</td><td>	 Mustafa Suleyman 	</td><td>	Technology, Social Science	</td></tr>
