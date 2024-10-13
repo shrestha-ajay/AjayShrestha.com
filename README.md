@@ -51,7 +51,7 @@ With a passion for leveraging technology, leadership, and management to address 
 &nbsp;
 
 ## Activities
-- Board of Directors, University of Bridgeport Alumni Association (UBAA), Jan 2022 - Present
+- Board of Directors, University of Bridgeport Alumni Association [(UBAA)](https://www.bridgeport.edu/alumni/alumni-association), Jan 2022 - Present
 - Interviewed by University of Bridgeport on impact of AI on healthcare - interview article - Dec 2023, [link](https://www.bridgeport.edu/news/ai-empowering-healthcare-professionals/)
 -	Interviewed by the editor of Scientific Computing World magazine on latest trends in SaaS (Cloud and AI) – interview article – Feb 2020, [link](https://www.scientific-computing.com/feature/making-case-cloud)
 -	Thermo Fisher Scientific Blog Post, “Machine Learning: A Primer to Laboratory Applications”, Jan 2020,  [link](https://www.thermofisher.com/blog/connectedlab/machine-learning-a-primer-to-laboratory-applications/). Listed in [top 5](https://www.thermofisher.com/blog/connectedlab/top-5-connected-lab-blogs-for-2020/) blogs for 2020.
