@@ -1,7 +1,11 @@
 ![Potrait](ajay-shrestha.jpg)
 
 ## Introduction         
-PhD in Machine Learning with almost two decades of engineering and management experience, **[Ajay Shrestha](https://www.ajayshrestha.com/)** is a leader driving technical innovation. As an Engineering Manager at [Imagen](https://imagen.ai/) (NYC based Healthcare AI startup), he is responsible for the cloud infrastructure supporting AI driven medical diagnostics-as-a-service software platform. Previously, he worked for [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html), where he led engineering teams to architect and deliver software services for life sciences and biotech industries. He is also an adjunct faculty in the computer science department at the [University of Bridgeport (UB)](https://www.bridgeport.edu/). Being an alum of UB, he serves on the board of directors for the UB Alumni Association (UBAA). He is interested in addressing problems at the core of human condition, by leveraging leadership, management and technology. Ajay aims to collaborate and make a positive impact in the world. He is currently an MBA candidate at [Yale University's](https://www.yale.edu/) School of Management (SOM).
+**[Ajay Shrestha](https://www.ajayshrestha.com/)**, PhD in Machine Learning, is a seasoned engineering leader with nearly two decades of experience in technology and management. As an Engineering Manager at [Imagen](https://imagen.ai/), a New York-based healthcare AI startup, he oversees the cloud infrastructure supporting the company's AI-driven medical diagnostics-as-a-service platform.
+
+Prior to this, Ajay led engineering teams at [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html), to build and deliver cloud-based software solutions for the life sciences and biotech sectors. He also serves as an adjunct faculty member in the Computer Science department at the [University of Bridgeport (UB)](https://www.bridgeport.edu/), his alma mater, and holds a position on the board of directors for the UB Alumni Association.
+
+With a passion for leveraging technology, leadership, and management to address critical societal challenges, Ajay is driven to make a meaningful, positive impact on the world. He is currently pursuing an MBA at [Yale University's](https://www.yale.edu/) School of Management, further honing his strategic and business acumen.
 \
 &nbsp;
 
