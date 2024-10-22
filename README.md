@@ -35,13 +35,13 @@ With a passion for leveraging technology, leadership, and management to address 
 - [Blogpost](https://blog.ajayshrestha.com/) - ⭐ subscribe [**here**](https://blog.ajayshrestha.com/subscribe) to get an email whenever I publish ⭐
 - [AI Journal](https://everestaijournal.com/)
 - [Certifications](https://www.youracclaim.com/users/ajayshrestha/badges)
-- [Github](https://github.com/shrestha-ajay)
+- [GitHub](https://github.com/shrestha-ajay)
 - [Twitter](https://twitter.com/ajayshrestha)
 - [ResearchGate](https://www.researchgate.net/profile/Ajay-Shrestha)
 \
 &nbsp;
 
-## Select First Author Research Publications on Machine Learning (Deep Learning)
+## Select First Author Research Publications on Machine Learning (Deep Learning / AI)
 -	Dissertation: Enhanced Deep Network Designs Using Mitochondrial DNA Based Genetic Algorithm and Importance Sampling, 2019, [link](https://www.proquest.com/docview/2322784986/631422EFED204CFDPQ/)
 -	Conference: Optimizing Deep Neural Network Architecture with Enhanced Genetic Algorithm, 18th IEEE International Conference on Machine Learning and Applications, ICMLA, 2019, Florida, [link](https://ieeexplore.ieee.org/abstract/document/8999193)
 -	Journal: Review of Deep Learning Algorithms and Architectures, in IEEE Access, 2019, [link](https://ieeexplore.ieee.org/document/8694781) - ⭐ **1.5k+ citations** ⭐ per [Google Scholar](https://scholar.google.com/citations?user=wtBCz0QAAAAJ)  
@@ -63,6 +63,7 @@ With a passion for leveraging technology, leadership, and management to address 
 &nbsp;
 
 ## Awards
+- Distinguished Alumni Award, University of Bridgeport, 2024
 -	Upsilon Pi Epsilon Executive Council Award, 2016. Award News-brief, [link](https://www.cs.ucla.edu/wp-content/uploads/cs/UPE-News-August-2016-Scholarships.pdf)
 - Merit-based Academic Excellence Scholarship (full tuition) for BS Computer Engineering, University of Bridgeport
 - Graduate Assistantship for MS Computer Science, University of Bridgeport
@@ -70,7 +71,7 @@ With a passion for leveraging technology, leadership, and management to address 
 &nbsp;
 
 ## Interests
-- Philosophy, Wellbeing, Sustainability, Entrepreneurship, Quantum Mechanics
+- Philosophy, Wellbeing, Sustainability, Entrepreneurship, Quantum Physics
 \
 &nbsp;
 
