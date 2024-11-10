@@ -1,16 +1,16 @@
 ![Potrait](ajay-shrestha.jpg)
 
 ## Introduction         
-**[Ajay Shrestha](https://www.ajayshrestha.com/)**, PhD in Machine Learning, is a seasoned engineering leader with nearly two decades of experience in technology and management. As an Engineering Manager at [Imagen](https://imagen.ai/), a New York-based healthcare AI startup, he oversees the cloud infrastructure supporting the company's AI-driven medical diagnostics-as-a-service platform.
+**[Ajay Shrestha](https://www.ajayshrestha.com/)**, PhD in Machine Learning (AI), is a seasoned engineering leader with nearly two decades of experience in technology and management. As an Engineering Manager at [Imagen](https://imagen.ai/), a New York-based healthcare AI startup, he oversees the cloud infrastructure supporting the company's AI-driven medical diagnostics-as-a-service platform.
 
 Prior to this, Ajay led engineering teams at [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html), to build and deliver cloud-based software solutions for the life sciences and biotech sectors. He also serves as an adjunct faculty member in the Computer Science department at the [University of Bridgeport (UB)](https://www.bridgeport.edu/), his alma mater, and holds a position on the board of directors for the UB Alumni Association.
 
-With a passion for leveraging technology, leadership, and management to address critical societal challenges, Ajay is driven to make a meaningful, positive impact on the world. He is currently pursuing an MBA at [Yale University's](https://www.yale.edu/) School of Management, further honing his strategic and business acumen.
+With a passion for leveraging technology, leadership, and management to address critical societal challenges, Ajay is driven to make a meaningful, positive impact on the world. He is currently pursuing an MBA at [Yale University's](https://www.yale.edu/) School of Management, further honing his strategic and business acumen. 
 \
 &nbsp;
 
 ## Expertise
-- Technology: DevOps, Cloud Computing, Software Engineering, Machine Learning
+- Technology: DevOps, Cloud Computing, Software Engineering, Machine Learning (AI)
 - Management: Agile, Lean, Product Development
 - Industry: Healthcare, Life Sciences, Education
 \
@@ -63,8 +63,8 @@ With a passion for leveraging technology, leadership, and management to address 
 &nbsp;
 
 ## Awards
-- Distinguished Alumni Award, University of Bridgeport, 2024
--	Upsilon Pi Epsilon Executive Council Award, 2016. Award News-brief, [link](https://www.cs.ucla.edu/wp-content/uploads/cs/UPE-News-August-2016-Scholarships.pdf)
+- Distinguished [Alumni](https://www.bridgeport.edu/alumni) Award (link)(https://www.youtube.com/watch?v=m416Nu9cybE), University of Bridgeport, 2024
+- Upsilon Pi Epsilon Executive Council Award, 2016. Award News-brief, [link](https://www.cs.ucla.edu/wp-content/uploads/cs/UPE-News-August-2016-Scholarships.pdf)
 - Merit-based Academic Excellence Scholarship (full tuition) for BS Computer Engineering, University of Bridgeport
 - Graduate Assistantship for MS Computer Science, University of Bridgeport
 \
