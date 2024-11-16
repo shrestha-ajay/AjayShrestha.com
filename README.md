@@ -64,7 +64,7 @@ With a passion for leveraging technology, leadership, and management to address 
 
 ## Awards
 - Distinguished [Alumni](https://www.bridgeport.edu/alumni) Award [(link)](https://www.youtube.com/watch?v=m416Nu9cybE), University of Bridgeport, 2024
-- Academic Accomplishment Award for 2016-2017 (during PhD Studies, School of Engineering, University of Bridgeport
+- Academic Accomplishment Award for 2016-2017 (during PhD), School of Engineering, University of Bridgeport
 - Upsilon Pi Epsilon Executive Council Award, 2016. Award News-brief, [link](https://www.cs.ucla.edu/wp-content/uploads/cs/UPE-News-August-2016-Scholarships.pdf)
 - Merit-based Academic Excellence Scholarship (full tuition) for BS Computer Engineering, University of Bridgeport
 - Graduate Assistantship for MS Computer Science, University of Bridgeport
