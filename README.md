@@ -5,7 +5,7 @@
 
 Prior to this, Ajay led engineering teams at [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html), to build and deliver cloud-based software solutions for the life sciences and biotech sectors. He also serves as an adjunct faculty member in the Computer Science department at the [University of Bridgeport (UB)](https://www.bridgeport.edu/), his alma mater, and holds a position on the board of directors for the UB Alumni Association.
 
-With a passion for leveraging technology, leadership, and management to address critical societal challenges, Ajay is driven to make a meaningful, positive impact on the world. He is currently pursuing an MBA at [Yale University's](https://www.yale.edu/) School of Management, further honing his strategic and business acumen. 
+With a passion for leveraging technology, leadership, and management to address critical societal challenges, Ajay is driven to make a meaningful, positive impact on the world. He is currently pursuing an MBA at [Yale University's](https://www.yale.edu/), further honing his strategic and business acumen. 
 \
 &nbsp;
 
@@ -18,7 +18,7 @@ With a passion for leveraging technology, leadership, and management to address 
 
 ## Experience
 - ~ Two decades of engineering and management experience at US companies ranging from startups (Internet, healthcare, life sciences, AI) to Fortune 100 corporations including [iMedX](https://imedx.com/), [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html) and [Imagen Technologies](https://imagen.ai/) (present)
-- 6+ years of teaching (2016 - present) as Adjunct Faculty: Teach courses in Cloud Computing and Embedded Systems Designs (micro-controllers) to engineering students at the University of Bridgeport
+- 7+ years of teaching (2016 - present) as Adjunct Faculty: Teach courses in Cloud Computing and Embedded Systems Designs (micro-controllers) to engineering students at the University of Bridgeport
 \
 &nbsp;
 
@@ -63,7 +63,7 @@ With a passion for leveraging technology, leadership, and management to address 
 &nbsp;
 
 ## Awards
-- Distinguished [Alumni](https://www.bridgeport.edu/alumni) Award [(link)](https://www.youtube.com/watch?v=m416Nu9cybE), University of Bridgeport, 2024
+- Distinguished [Alumni](https://www.bridgeport.edu/alumni) Award [(video)](https://www.youtube.com/watch?v=m416Nu9cybE), University of Bridgeport, 2024
 - Academic Accomplishment Award for 2016-2017 (during PhD), School of Engineering, University of Bridgeport
 - Upsilon Pi Epsilon Executive Council Award, 2016. Award News-brief, [link](https://www.cs.ucla.edu/wp-content/uploads/cs/UPE-News-August-2016-Scholarships.pdf)
 - Merit-based Academic Excellence Scholarship (full tuition) for BS Computer Engineering, University of Bridgeport
@@ -79,7 +79,8 @@ With a passion for leveraging technology, leadership, and management to address 
 ## Recently Read Books
 <table border="0" style="font-size: 14px;">		
 	<tr>	<th style="width: 400px;" style="text-align: left;">Title</th><th style="width: 300px;" style="text-align: left;">Published</th><th style="width: 350px;" style="text-align: left;">First Author</th><th style="width: 350px;" style="text-align: left;">Category</th></tr>
-	<tr>	<td>	 <a href="https://www.amazon.com/AI-Revolution-Medicine-GPT-4-Beyond/dp/0138200130?&_encoding=UTF8&tag=ajayshrestha-20&linkCode=ur2&linkId=578b78b7eedc051272b875cf452f2ba9&camp=1789&creative=9325">AI Revolution in Medicine</a> 	</td><td>	2023	</td><td>	 Peter Lee	</td><td>	Technology, AI, Healthcare	</td></tr>
+	<tr>	<td>	 <a href="https://www.amazon.com/Worlds-See-Curiosity-Exploration-Discovery/dp/1250897939/">The Worlds I See</a> 	</td><td>	2023	</td><td>Dr. Fei-Fei Li</td><td>	AI, Biography	</td></tr>
+<tr>	<td>	 <a href="https://www.amazon.com/AI-Revolution-Medicine-GPT-4-Beyond/dp/0138200130?&_encoding=UTF8&tag=ajayshrestha-20&linkCode=ur2&linkId=578b78b7eedc051272b875cf452f2ba9&camp=1789&creative=9325">AI Revolution in Medicine</a> 	</td><td>	2023	</td><td>	 Peter Lee	</td><td>	Technology, AI, Healthcare	</td></tr>
 	<tr>	<td>	 <a href="https://www.amazon.com/Coming-Wave-Technology-Twenty-first-Centurys/dp/0593593952/ref=sr_1_1?dib=eyJ2IjoiMSJ9.dg1AAr7dGZr-1c1pP5UW4deRGe4KBuzQPkEeX3R_ZquflRt8im8W6BmOKWFVs8h-jHWc9I8xedS3rC2kdSYcQdkqKKgS9oayDQq2xoUfTKvO87IVB3uMtfQ6yE6mO1NhgaO16b9pdrCmRW5ChnEhbLee3M7FPYXJ0UzvfsbLly_YXft0on50IyjiTtiTYypZNIrbyDymjrKWsKoHufA9pCevlCLerH1Voa5n5iA2B00.-two6UvspamHrjiuJKfI-nyjc8k6ifQnqUuFWJj6mzY&dib_tag=se&hvadid=661099628632&hvdev=c&hvlocphy=9001953&hvnetw=g&hvqmt=e&hvrand=18133570507672199400&hvtargid=kwd-767087962522&hydadcr=9006_13539748&keywords=the+coming+wave&qid=1709522200&sr=8-1&_encoding=UTF8&tag=ajayshrestha-20&linkCode=ur2&linkId=654ab91ee72c2a274421bd2af61c024f&camp=1789&creative=9325">The Coming Wave</a> 	</td><td>	2023	</td><td>	 Mustafa Suleyman 	</td><td>	Technology, Social Science	</td></tr>
 		<tr>	<td>	 <a href="https://www.amazon.com/Elon-Musk-Walter-Isaacson/dp/1982181281/ref=sr_1_1?dib=eyJ2IjoiMSJ9.ErJ4P2lX4pbBPppmmzbJ0kSyYH-_bM92zswWivMpxPI2xXfYtpr7Bssau0ZRvBMg_pWYtIXXCy4aGDABN_6vjRDm3PG45VZ-K09nhdHmc0sL3WJhH7mLM-4LqnkyBaVqdeAdr3WwLDRlJzzYhx0eStrAfvGtJyXFVSrU2wOBcLFiVa1bhGCr2A2VaTzJZkgU-Xk9x1zp1WfZaLSRPIAfncWq3nhaNmMDbiXhR8YI_Rc.1d7xyABXPGsO5xUm82Xd1XKxKj_DgkmoKOFKhu8__ww&dib_tag=se&hvadid=677030092682&hvdev=c&hvlocphy=9001953&hvnetw=g&hvqmt=e&hvrand=8430645877259091975&hvtargid=kwd-1934003453932&hydadcr=22136_13517515&keywords=elon+musk+book+walter+isaacson&qid=1710207916&sr=8-1&_encoding=UTF8&tag=ajayshrestha-20&linkCode=ur2&linkId=ed8d66deaefa847aa3006958e5257c0d&camp=1789&creative=9325">Elon Musk</a> 	</td><td>	2023	</td><td>	 Walter Isaacson 	</td><td>	Biography, Technology, Management	</td></tr>
 	<tr>	<td>	 <a href="https://www.amazon.com/Age-AI-Our-Human-Future/dp/0316273996/ref=sr_1_5?crid=1HPFSHROPJCZD&dib=eyJ2IjoiMSJ9.flHz4wG1OlADOzLc0u92KQOh7Du0GFB56OOLPNg1q7-teFLTP1Xrck31FBocz7IPXgI_WvDcion4mu25-g6kuA.hMqrtXIRiCohXQVPf2aIJbgBSTIiYZCliSwMkfPLehM&dib_tag=se&keywords=ath+age+of+ai&qid=1705292157&sprefix=ath+age+of+ai%252Caps%252C85&sr=8-5&_encoding=UTF8&tag=ajayshrestha-20&linkCode=ur2&linkId=cc455ff0670ae2b3c4499c87122b4017&camp=1789&creative=9325">The Age of AI</a> 	</td><td>	2022	</td><td>	 Henry Kissinger 	</td><td>	Technology, Social Science	</td></tr>
