@@ -11,14 +11,17 @@ With a passion for leveraging technology, leadership, and management to address 
 
 ## Expertise
 Technology
-- DevOps, Cloud Architecture, Software Engineering, Artificial Intelligence & Machine Learning — with a focus on building scalable, resilient software systems and automating end-to-end delivery pipelines.
+- Cloud Architecture, Software Engineering, AI & Machine Learning — with a focus on building scalable, resilient software systems and automating end-to-end build & delivery pipelines.
 
 Management
 - Product Development, Operational Leadership, Agile & Lean Methodologies, Scaling Teams and Processes — driving cross-functional collaboration and delivering high-impact outcomes from MVP to enterprise scale.
 
+Research
+- PhD-level research in Artificial Intelligence and Machine Learning, with first-author, peer-reviewed publications in leading journals and conferences — including a highly cited (2,000+ citations) paper on deep learning.
+
 Industry Domains
 - Healthcare & Life Sciences — Hands-on experience navigating regulatory landscapes, developing and deploying AI and software solutions, and modernizing legacy systems to drive innovation.
-- Education — Academic leadership as Adjunct Faculty (graduate-level Computer Science) and Board Member of the University of Bridgeport Alumni Association.
+- Education — Academic leadership as Adjunct Faculty (graduate-level computer science) and Board Member of the University of Bridgeport Alumni Association.
 \
 &nbsp;
 
@@ -50,7 +53,7 @@ Industry Domains
 ## Select First Author Research Publications on Machine Learning (Deep Learning / AI)
 -	Dissertation: Enhanced Deep Network Designs Using Mitochondrial DNA Based Genetic Algorithm and Importance Sampling, 2019, [link](https://www.proquest.com/docview/2322784986/631422EFED204CFDPQ/)
 -	Conference: Optimizing Deep Neural Network Architecture with Enhanced Genetic Algorithm, 18th IEEE International Conference on Machine Learning and Applications, ICMLA, 2019, Florida, [link](https://ieeexplore.ieee.org/abstract/document/8999193)
--	Journal: Review of Deep Learning Algorithms and Architectures, in IEEE Access, 2019, [link](https://ieeexplore.ieee.org/document/8694781) - ⭐ **1.5k+ citations** ⭐ per [Google Scholar](https://scholar.google.com/citations?user=wtBCz0QAAAAJ)  
+-	Journal: Review of Deep Learning Algorithms and Architectures, in IEEE Access, 2019, [link](https://ieeexplore.ieee.org/document/8694781) - ⭐ **2k+ citations** ⭐ per [Google Scholar](https://scholar.google.com/citations?user=wtBCz0QAAAAJ)  
 -	Conference: Enhancing Siamese Networks Training with Importance Sampling, 11th International Conference on Agents and Artificial Intelligence ICAART, Prague, Czech Republic, 2019, [link](http://dx.doi.org/10.5220/0007371706100615)
 -	Journal: Improving Genetic Algorithm with Fine-Tuned Crossover and Scaled Architecture, Journal of Mathematics, 2016, [link](http://dx.doi.org/10.1155/2016/4015845)
 \
