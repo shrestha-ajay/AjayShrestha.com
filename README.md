@@ -10,9 +10,15 @@ With a passion for leveraging technology, leadership, and management to address 
 &nbsp;
 
 ## Expertise
-- Technology: DevOps, Cloud Computing, Software Engineering, Machine Learning (AI)
-- Management: Agile, Lean, Product Development
-- Industry: Healthcare, Life Sciences, Education
+Technology
+- DevOps, Cloud Architecture, Software Engineering, Artificial Intelligence & Machine Learning — with a focus on building scalable, resilient software systems and automating end-to-end delivery pipelines.
+
+Management
+- Product Development, Operational Leadership, Agile & Lean Methodologies, Scaling Teams and Processes — driving cross-functional collaboration and delivering high-impact outcomes from MVP to enterprise scale.
+
+Industry Domains
+- Healthcare & Life Sciences — Hands-on experience navigating regulatory landscapes, developing and deploying AI and software solutions, and modernizing legacy systems to drive innovation.
+- Education — Academic leadership as Adjunct Faculty (graduate-level Computer Science) and Board Member of the University of Bridgeport Alumni Association.
 \
 &nbsp;
 
@@ -23,7 +29,7 @@ With a passion for leveraging technology, leadership, and management to address 
 &nbsp;
 
 ## Education & Certifications
-- BS/MS/PhD, Computer Science & Engineering, [University of Bridgeport](https://www.bridgeport.edu/), Connecticut, USA
+- BS/MS/PhD, Computer Science & Engineering (Focus in AI), [University of Bridgeport](https://www.bridgeport.edu/), Connecticut, USA
 - Industry Certifications in cloud development, devops, machine learning, management and others, [link](https://www.credly.com/users/ajayshrestha/badges) 
 \
 &nbsp;
