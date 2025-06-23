@@ -10,10 +10,10 @@ With a passion for leveraging technology, leadership, and management to address 
 &nbsp;
 
 ## Expertise
-- Technology: Cloud Architecture, Software Engineering, AI & Machine Learning — with a focus on building scalable, resilient software systems and automating end-to-end build & delivery pipelines.
-- Management: Product Development, Operational Leadership, Agile & Lean Methodologies, Scaling Teams and Processes — driving cross-functional collaboration and delivering high-impact outcomes from MVP to enterprise scale.
-- Research: PhD-level research in Artificial Intelligence and Machine Learning, with first-author, peer-reviewed publications in leading journals and conferences — including a highly cited (2,000+ citations) paper on deep learning.
-- Industry Domains: Healthcare & Life Sciences — Hands-on experience navigating regulatory landscapes, developing and deploying AI and software solutions, and modernizing legacy systems to drive innovation. Education — Academic leadership as Adjunct Faculty (graduate-level computer science) and Board Member of the University of Bridgeport Alumni Association.
+- **Technology**: Cloud Architecture, Software Engineering, AI & Machine Learning — with a focus on building scalable, resilient software systems and automating end-to-end build & delivery pipelines.
+- **Management**: Product Development, Operational Leadership, Agile & Lean Methodologies, Scaling Teams and Processes — driving cross-functional collaboration and delivering high-impact outcomes from MVP to enterprise scale.
+- **Research**: PhD-level research in Artificial Intelligence and Machine Learning, with first-author, peer-reviewed publications in leading journals and conferences — including a highly cited (2,000+ citations) paper on deep learning.
+- **Industry Domains**: Healthcare & Life Sciences — Hands-on experience navigating regulatory landscapes, developing and deploying AI and software solutions, and modernizing legacy systems to drive innovation. Education — Academic leadership as Adjunct Faculty (graduate-level computer science) and Board Member of the University of Bridgeport Alumni Association.
 \
 &nbsp;
 
