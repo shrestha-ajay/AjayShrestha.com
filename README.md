@@ -5,14 +5,14 @@
 
 Prior to this, Ajay led engineering teams at [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html), to build and deliver cloud-based software solutions for the life sciences and biotech sectors. He also serves as an adjunct faculty member in the Computer Science department at the [University of Bridgeport (UB)](https://www.bridgeport.edu/), his alma mater, and holds a position on the board of directors for the UB Alumni Association.
 
-With a passion for leveraging technology, leadership, and management to address critical societal challenges, Ajay is driven to make a meaningful, positive impact on the world. He is currently pursuing an MBA at [Yale University](https://www.yale.edu/), further honing his strategic and business acumen. 
+He is driven to create meaningful societal impact by aligning with purposeful missions and translating them into measurable outcomes through innovation and operational excellence. He is currently pursuing an MBA at [Yale University](https://www.yale.edu/), further honing his strategic and business acumen. 
 \
 &nbsp;
 
 ## Expertise
-- **Technology**: Cloud Architecture, Software Engineering, AI & Machine Learning — with a focus on building scalable, resilient software systems and automating end-to-end build & delivery pipelines.
-- **Management**: Product Development, Operational Leadership, Agile & Lean Methodologies, Scaling Teams and Processes — driving cross-functional collaboration and delivering high-impact outcomes from MVP to enterprise scale.
-- **Research**: PhD-level research in Artificial Intelligence and Machine Learning, with first-author, peer-reviewed publications in leading journals and conferences — including a highly cited (2,000+ citations) paper on deep learning.
+- **Technology**: Cloud Architecture, Software Engineering, AI & Machine Learning, with a focus on building scalable, resilient software systems and automating end-to-end build & delivery pipelines.
+- **Management**: Product Development, Operational Leadership, Agile & Lean Methodologies, Scaling Teams and Processes, driving cross-functional collaboration and delivering high-impact outcomes from MVP to enterprise scale.
+- **Research**: PhD-level research in Artificial Intelligence and Machine Learning, with first-author, peer-reviewed publications in leading journals and conferences, including a highly cited (2,000+ citations) paper on deep learning.
 - **Industry Domains**: Healthcare & Life Sciences — Hands-on experience navigating regulatory landscapes, developing and deploying AI and software solutions, and modernizing legacy systems to drive innovation. Education — Academic leadership as Adjunct Faculty (graduate-level computer science) and Board Member of the University of Bridgeport Alumni Association.
 \
 &nbsp;
@@ -53,6 +53,7 @@ With a passion for leveraging technology, leadership, and management to address 
 
 ## Activities
 - Board of Directors, University of Bridgeport Alumni Association [(UBAA)](https://www.bridgeport.edu/alumni/alumni-association), Jan 2022 - Present
+- Moderated panel on [Pioneers Shaping the Digital Economy](https://yaleblockchainconference.com/) at the [Yale Blockchain Conference](https://som.yale.edu/event/2025/04/yale-blockchain-conference-2025), 2025
 - Interviewed by University of Bridgeport on impact of AI on healthcare - interview article - Dec 2023, [link](https://www.bridgeport.edu/news/ai-empowering-healthcare-professionals/)
 -	Interviewed by the editor of Scientific Computing World magazine on latest trends in SaaS (Cloud and AI) – interview article – Feb 2020, [link](https://www.scientific-computing.com/feature/making-case-cloud)
 -	Thermo Fisher Scientific Blog Post, “Machine Learning: A Primer to Laboratory Applications”, Jan 2020,  [link](https://www.thermofisher.com/blog/connectedlab/machine-learning-a-primer-to-laboratory-applications/). Listed in [top 5](https://www.thermofisher.com/blog/connectedlab/top-5-connected-lab-blogs-for-2020/) blogs for 2020.
